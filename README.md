@@ -16,17 +16,25 @@ Reference:
 [5] Haixia Liu, Raymond H. Chan, and Yuan Yao. Geometric Tight Frame based Stylometry for Art Authentication of van Gogh Paintings. Applied and Computational Harmonic Analysis, 41(2): 590-602, 2016 
 
 [6] K. J. Arrow. Social Choice and Individual Values, 2nd Ed. Yale University Press, New Haven, CT, 1963.  
+
 [7] A. Sen. The impossibility of a paretian liberal. Journal of Political Economy, 78(1):152–157, 1970. 
+
 [8] Brin, S.; Page, L. (1998). The anatomy of a large-scale hypertextual Web search engine. Computer Networks and ISDN Systems. 30: 107–117.
+
 [9] X. Jiang, L.-H. Lim, Y. Yao, and Y. Ye. Statistical ranking and combinatorial hodge theory. Math- ematical Programming, 127(1):203–244, 2011.  
+
 [10] Qianqian Xu, Qingming Huang, Tingting Jiang, Bowei Yan, Weisi Lin, and Yuan Yao. HodgeRank on Random Graphs for Subjective Video Quality Assessment. IEEE Transactions on Multimedia, 14(3):844-857, 2012 
+
 [11] Qianqian Xu, Jiechao Xiong, Qingming Huang, and Yuan Yao. Robust Evaluation for Quality of Experience in Crowdsourcing. ACM Conference on Multimedia 2013. 
+
 [14] Qianqian Xu, Jiechao Xiong, Xiaochun Cao, and Yuan Yao. Parsimonious Mixed-Effects HodgeRank for Crowdsourced Preference Aggregation. ACM Multimedia Conference (ACMMM), Amsterdam, Netherlands, October 15-19, 2016. 
 
 [15] Qianqian Xu, Ming Yan, Chendi Huang, Jiechao Xiong, Qingming Huang, and Yuan Yao. Exploring Outliers in Crowdsourced Ranking for QoE. ACM Conference on Multimedia, Mountain View, California, Oct 23-27, 2017. 
 
-[16] Yanwei Fu, Timothy M. Hospedales, Tao Xiang, Shaogang Gong, and Yuan Yao. Interestingness Prediction by Robust Learning to Rank. 13th European Conference on Computer Vision (ECCV), Zurich, Switzerland, Sep 8-12, 2014. 
+[16] Yanwei Fu, Timothy M. Hospedales, Tao Xiang, Shaogang Gong, and Yuan Yao. Interestingness Prediction by Robust Learning to Rank. 13th European Conference on Computer Vision (ECCV), Zurich, Switzerland, Sep 8-12, 2014.
+
 [17] Qianqian Xu, Jiechao Xiong, Xiaochun Cao, and Yuan Yao. False Discovery Rate Control and Statistical Quality Assessment of Annotators in Crowdsourced Ranking. Proceedings of The 33rd International Conference on Machine Learning (ICML), New York, June 19-24, 2016. 
+
 [18] Qianqian Xu, Jiechao Xiong, Xi Chen, Qingming Huang, and Yuan Yao. HodgeRank with Information Maximization for Crowdsourced Pairwise Ranking Aggregation. AAAI 2018. 
 
 [19] Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals. Understanding deep learning requires rethinking generalization, ICLR 2016.
